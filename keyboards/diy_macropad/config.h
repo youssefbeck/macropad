@@ -1,0 +1,6 @@
+#pragma once
+
+#define DEBOUNCE 5
+
+#define DYNAMIC_KEYMAP_LAYER_COUNT 4
+#define DYNAMIC_KEYMAP_MACRO_COUNT 16
